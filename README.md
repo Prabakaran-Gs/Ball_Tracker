@@ -34,9 +34,6 @@
   pip install opencv-python
   ```
 
-  <h2>License</h2>
-
-  <p>This code is provided under the [your_license_here] license. See the LICENSE file for details.</p>
 
   <h2>Author</h2>
 
