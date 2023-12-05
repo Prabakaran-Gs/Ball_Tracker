@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load your video
-cap = cv2.VideoCapture("275.mp4")
+cap = cv2.VideoCapture("testing.mp4")
 
 # Define your ball color in RGB format
 ball_color_rgb = np.array([208, 204, 42])  # RGB color
